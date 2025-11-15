@@ -31,7 +31,7 @@ export default function About() {
                   <h2 className="text-4xl md:text-5xl font-bold mb-8">Our Mission</h2>
                   <div className="space-y-6">
                     <p className="text-xl text-white/90 leading-relaxed">
-                      We're a student organization at the University of Michigan dedicated to 
+                      We&apos;re a student organization at the University of Michigan dedicated to 
                       autonomous robotics. We design, build, and compete with robots that can 
                       navigate complex environments and make intelligent decisions.
                     </p>

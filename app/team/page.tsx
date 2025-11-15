@@ -186,9 +186,9 @@ export default function Team() {
           <FadeIn>
             <h2 className="text-4xl md:text-5xl font-bold mb-6 text-umich-maize">Join Our Team</h2>
             <p className="text-xl text-white/90 leading-relaxed mb-8">
-              We're always looking for passionate students who want to push the 
-              boundaries of autonomous robotics. Whether you're interested in mechanical 
-              design, electrical systems, software development, or operations, there's a 
+              We&apos;re always looking for passionate students who want to push the 
+              boundaries of autonomous robotics. Whether you&apos;re interested in mechanical 
+              design, electrical systems, software development, or operations, there&apos;s a 
               place for you on our team.
             </p>
             <Link

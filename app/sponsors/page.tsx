@@ -20,7 +20,7 @@ export default function Sponsors() {
           <h2 className="text-3xl font-bold mb-6">Become a Sponsor</h2>
           <p className="text-lg text-white/80 leading-relaxed mb-6">
             Your sponsorship helps us purchase components, attend competitions, and 
-            develop cutting-edge robots. We're grateful for any support.
+            develop cutting-edge robots. We&apos;re grateful for any support.
           </p>
           <Link
             href="/contact"

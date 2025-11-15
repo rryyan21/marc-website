@@ -16,7 +16,7 @@ export default function Competition() {
           <FadeIn>
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-8">The Competition</h1>
             <p className="text-2xl md:text-3xl text-white/80 font-light leading-relaxed">
-              Autonomous robotics competitions that push the boundaries of what's possible
+              Autonomous robotics competitions that push the boundaries of what&apos;s possible
             </p>
           </FadeIn>
         </div>
@@ -308,8 +308,8 @@ export default function Competition() {
                         <h3 className="text-2xl font-semibold mb-3">Choose Your Sub-Team</h3>
                         <p className="text-white/90 leading-relaxed">
                           Based on your interests and skills, choose a sub-team to join. You can 
-                          participate in Mechanical, Electrical, Software, or Operations. Don't 
-                          worry if you're not sure—you can always switch or contribute to multiple 
+                          participate in Mechanical, Electrical, Software, or Operations. Don&apos;t 
+                          worry if you&apos;re not sure—you can always switch or contribute to multiple 
                           teams as you learn more.
                         </p>
                       </div>
@@ -323,8 +323,8 @@ export default function Competition() {
                       <div>
                         <h3 className="text-2xl font-semibold mb-3">Start with Onboarding</h3>
                         <p className="text-white/90 leading-relaxed">
-                          New members go through an onboarding process where you'll learn about 
-                          our tools, workflows, and current projects. You'll be paired with 
+                          New members go through an onboarding process where you&apos;ll learn about 
+                          our tools, workflows, and current projects. You&apos;ll be paired with 
                           experienced team members who will help you get up to speed.
                         </p>
                       </div>
@@ -338,8 +338,8 @@ export default function Competition() {
                       <div>
                         <h3 className="text-2xl font-semibold mb-3">Contribute to Projects</h3>
                         <p className="text-white/90 leading-relaxed">
-                          Start working on real projects! Whether it's designing a component, 
-                          writing code, or helping with logistics, you'll be contributing to 
+                          Start working on real projects! Whether it&apos;s designing a component, 
+                          writing code, or helping with logistics, you&apos;ll be contributing to 
                           actual competition robots from day one.
                         </p>
                       </div>
@@ -354,7 +354,7 @@ export default function Competition() {
                         <h3 className="text-2xl font-semibold mb-3">Get in Touch</h3>
                         <p className="text-white/90 leading-relaxed mb-4">
                           Ready to join? Reach out to us via email or attend our next meeting. 
-                          We're always looking for passionate students who want to push the 
+                          We&apos;re always looking for passionate students who want to push the 
                           boundaries of autonomous robotics.
                         </p>
                         <Link
